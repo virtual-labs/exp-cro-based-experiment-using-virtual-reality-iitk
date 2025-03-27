@@ -1,6 +1,6 @@
 1. Download the experiment from the mentioned link.<br>
 2. Install the APK file in your OCULUS device.<br>
-3. Run the APP from the device application menu.<br>
+3. Run the APP from the device application menu.<br><br>
 Happy Learning<br><br>
 
 <b>Working of an experiment : </b> <br>
