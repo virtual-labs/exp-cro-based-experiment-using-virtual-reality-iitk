@@ -2,37 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "How does viewing a rendered project in virtual reality differ from viewing a high-quality render on a desktop or laptop computer?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "I've seen several factors, starting with depth perception and space. A decent HMD gives you a feeling of scale. The normal individual cannot always grasp the amazing size of a building or the distance between two benches from a PC/Laptop screen. The second and most crucial factor is ‘feeling’. Presence brings emotion, not just seeing. They can visually ‘feel’ that space. This is a compelling technology since architects and designers find it hardest to communicate to clients."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation 1 "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Does virtual reality allow for space exploration?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Yes, you can, however in contrast to mobile HMDs like Samsung GearVR or Google Cardboard, you'll need a tethered HMD like the development kits for Oculus or HTC Vive. To turn your concepts into navigable virtual spaces, any of the current software platforms require a certain level of computer power. The bulk of mobile HMDs are powered by mobile phones, which lack the processing power necessary to produce a seamless and comfortable experience. However, a space can now be seen from a fixed location using mobile devices, which is still very immersive and provides excellent view of little details."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What drawbacks does technology have?",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How will we interact with technology in the future?",
+      "answers": {
+        "a": "A Keyboard",
+        "b": "Voice",
+        "c": "Eyes",
+        "d": "Thoughts"
+      },
+      "explanations": {
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
