@@ -6,9 +6,6 @@
       "answers": {
         "a": "I've seen several factors, starting with depth perception and space. A decent HMD gives you a feeling of scale. The normal individual cannot always grasp the amazing size of a building or the distance between two benches from a PC/Laptop screen. The second and most crucial factor is ‘feeling’. Presence brings emotion, not just seeing. They can visually ‘feel’ that space. This is a compelling technology since architects and designers find it hardest to communicate to clients."
       },
-      "explanations": {
-        "a": "Explanation 1 "
-      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -17,23 +14,15 @@
       "answers": {
         "a": "Yes, you can, however in contrast to mobile HMDs like Samsung GearVR or Google Cardboard, you'll need a tethered HMD like the development kits for Oculus or HTC Vive. To turn your concepts into navigable virtual spaces, any of the current software platforms require a certain level of computer power. The bulk of mobile HMDs are powered by mobile phones, which lack the processing power necessary to produce a seamless and comfortable experience. However, a space can now be seen from a fixed location using mobile devices, which is still very immersive and provides excellent view of little details."
       },
-      "explanations": {
-        "a": "Explanation 1"
-      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
       "question": "What drawbacks does technology have?",
       "answers": {
-        "a": "True",
-        "b": "False"
+        "a": "The main drawback is that it's still in its infancy. Most software that is currently on the market is either in beta testing or is still under development. The amount of processing power needed to perform immersive VR walk-through experiences is another significant problem. Ordinary PCs and laptops won't be able to support an HTC Vive or Oculus Rift due to their minimum specifications. Despite this, it's still worthwhile to look into the technology since it will give businesses that adopt it early a significant advantage over those that don't."
       },
-      "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2"
-      },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
@@ -44,13 +33,16 @@
         "c": "Eyes",
         "d": "Thoughts"
       },
-      "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "Augmented reality (AR) and virtual reality (VR) are the same?",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
