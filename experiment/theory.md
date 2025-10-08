@@ -1,1 +1,9 @@
-In any laboratory for electronics and electrical engineering, a Cathode Ray Oscilloscope, or CRO for short, is today a fundamental, significant, and multipurpose tool. You had the chance to use a voltmeter and a multimeter to measure the voltages of an ac source and a dc source in the previous exercise. If you look at how these voltages change over time, you'll see that the ac voltage changes sinusoidally while the dc voltage stays constant (a voltage versus time graph shows a straight line parallel to the x-axis). Although we can learn the voltage magnitudes from an ac-voltmeter or multimeter, we are unable to learn the waveform characteristics of an ac or dc signal. 
+A Cathode Ray Oscilloscope (CRO) is an electronic instrument used to display and study the 
+variation of voltage with time. It allows observation of waveform characteristics such as 
+amplitude, frequency, time period, and shape, making it a vital tool in electronics. <br><br>
+In this VR-based experiment, the CRO and signal generator are simulated in a virtual 
+environment. Students can connect components, adjust CRO settings like volts/div and time/div, 
+and view different waveforms such as sine, square, and triangular waves on the virtual screen. <br><br>
+This virtual setup provides a safe, cost-effective, and repeatable way to learn CRO operation. It 
+helps students practice measuring waveform parameters and understand control functions 
+without requiring physical hardware, making it ideal for both in-person and remote learning.
