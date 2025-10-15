@@ -9,6 +9,12 @@
         "c": "Change frequency",
         "d": "Disappear"
       },
+      "explanations": {
+        "a":" ",
+        "b":"Increasing the amplitude control makes the waveform taller, reflecting a higher voltage.",
+        "c":" ",
+        "d":" "
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -19,6 +25,12 @@
         "b": "The waveform’s vertical scale",
         "c": "The waveform’s horizontal scale",
         "d": "The time period of the signal"
+      },
+      "explanations": {
+        "a":" ",
+        "b":"Changing the amplitude affects how the waveform fits vertically on the CRO screen.",
+        "c":" ",
+        "d":" "
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -31,6 +43,12 @@
         "c": "A linearly rising and falling waveform",
         "d": "answA flat lineer4"
       },
+      "explanations": {
+        "a":" ",
+        "b":" ",
+        "c":"A triangular waveform rises and falls linearly, unlike sine or square waves.",
+        "d":" "
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -41,6 +59,12 @@
         "b": "Peak-to-peak voltage",
         "c": "Time period",
         "d": "Frequency"
+      },
+      "explanations": {
+        "a":" ",
+        "b":"The peak voltage is half of the peak-to-peak voltage.",
+        "c":" ",
+        "d":" "
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -53,6 +77,12 @@
         "c": "Increase in height",
         "d": "Reduce in brightness"
       },
+      "explanations": {
+        "a":" ",
+        "b":": Increasing the signal frequency reduces the time period, so the waveform compresses horizontally.",
+        "c":" ",
+        "d":" "
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -63,6 +93,12 @@
         "b": "It automatically calculates RMS values",
         "c": "It removes the need for volts/div control",
         "d": "It increases waveform frequency"
+      },
+      "explanations": {
+        "a":"In a VR CRO lab, amplitude measurements can be done safely and virtually, without using physical probes.",
+        "b":" ",
+        "c":" ",
+        "d":" "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
