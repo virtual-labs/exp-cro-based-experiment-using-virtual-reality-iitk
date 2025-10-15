@@ -9,6 +9,12 @@
         "c": "Generate electrical signals",
         "d": "Store data"
       },
+      "explanations": {
+        "a":" ",
+        "b":"The CRO’s main purpose is to display electrical signals as waveforms on a screen. It allows you to analyze voltage variations with respect to time, making it essential for studying circuit behavior.",
+        "c":" ",
+        "d":" "
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -19,6 +25,12 @@
         "b": "Current",
         "c": "Time",
         "d": "Frequency"
+      },
+      "explanations": {
+        "a":" ",
+        "b":" ",
+        "c":"The X-axis represents time because the CRO plots voltage (on the Y-axis) against time. This helps in observing how the signal changes over a given period.",
+        "d":" "
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -31,6 +43,12 @@
         "c": "Time/div",
         "d": "Trigger"
       },
+      "explanations": {
+        "a":" ",
+        "b":"The intensity control adjusts the brightness of the electron beam hitting the screen. Increasing it makes the trace brighter, while decreasing it dims the display.",
+        "c":" ",
+        "d":" "
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -41,6 +59,12 @@
         "b": "Adjust vertical sensitivity",
         "c": "Alter waveform frequency",
         "d": "Increase display brightness"
+      },
+      "explanations": {
+        "a":" ",
+        "b":"The “Volts/div” knob sets how many volts each vertical division represents, letting you scale the waveform’s height accurately to measure voltage amplitude.",
+        "c":" ",
+        "d":" "
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -53,6 +77,12 @@
         "c": "Triangle wave",
         "d": "Hexagonal wave"
       },
+      "explanations": {
+        "a":" ",
+        "b":" ",
+        "c":" ",
+        "d":"CROs display continuous signals like sine, square, and triangular waves. Hexagonal waves don’t exist in standard signal generation or waveform analysis."
+      },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -63,6 +93,12 @@
         "b": "Stabilize the waveform display",
         "c": "Adjust beam focus",
         "d": "Change waveform color"
+      },
+      "explanations": {
+        "a":" ",
+        "b":"The trigger ensures the waveform starts at the same point in every sweep, giving a stable, non-moving display for clear observation.",
+        "c":" ",
+        "d":" "
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -75,6 +111,12 @@
         "c": "Power supply",
         "d": "Signal generator"
       },
+      "explanations": {
+        "a":" ",
+        "b":"The electron beam moves left to right across the screen through the action of horizontal deflection plates, controlled by the time-base generator.",
+        "c":" ",
+        "d":" "
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -85,6 +127,12 @@
         "b": "Frequency",
         "c": "Capacitance",
         "d": "Resistance"
+      },
+      "explanations": {
+        "a":" ",
+        "b":"By measuring the time period of one complete waveform cycle on the CRO and applying f=1/T, you can directly calculate the frequency.",
+        "c":" ",
+        "d":" "
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -97,6 +145,12 @@
         "c": "Measure voltage",
         "d": "Adjust beam intensity"
       },
+      "explanations": {
+        "a":" ",
+        "b":"The function generator creates different signal types—like sine, square, and triangular waves—that are sent to the CRO for visualization and analysis.",
+        "c":" ",
+        "d":" "
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -107,6 +161,12 @@
         "b": "It is less interactive",
         "c": "It is safe, repeatable, and cost-effective",
         "d": "It does not require understanding CRO controls"
+      },
+      "explanations": {
+        "a":" ",
+        "b":" ",
+        "c":"A VR-based CRO lab allows students to practice safely, repeat experiments, and reduce equipment costs.",
+        "d":" "
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
