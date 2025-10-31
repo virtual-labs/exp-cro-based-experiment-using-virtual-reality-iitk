@@ -21,7 +21,7 @@ Through an immersive setting, virtual reality (VR) is a technology tool that has
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Dr. Aparna Dixit (Mentor) | Faculty | Physics | PSIT | aparna.dixit@psit.ac.in
-2 | Vivek Yadav  | Student | IT | PSIT | .
-3 | Karan Kumar Singh | Student | IT | PSIT | .
+2 | Vivek Yadav  | Student | IT | PSIT | 2k24.it1.2414249@gmail.com
+3 | Karan Kumar Singh | Student | IT | PSIT | 2k24.it1.2414263@gmail.com
 
 
