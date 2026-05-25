@@ -2,37 +2,105 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "If the CRO’s amplitude control is increased, the waveform will:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Shift horizontally",
+        "b": "Increase in vertical height",
+        "c": "Change frequency",
+        "d": "Disappear"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a":" ",
+        "b":"Increasing the amplitude control makes the waveform taller, reflecting a higher voltage.",
+        "c":" ",
+        "d":" "
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "During the VR CRO experiment, changing the amplitude control affects:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The brightness of the trace",
+        "b": "The waveform’s vertical scale",
+        "c": "The waveform’s horizontal scale",
+        "d": "The time period of the signal"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a":" ",
+        "b":"Changing the amplitude affects how the waveform fits vertically on the CRO screen.",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the signal generator outputs a triangular waveform, the CRO display will show:",
+      "answers": {
+        "a": "A sinusoidal curve",
+        "b": "A stepped waveform",
+        "c": "A linearly rising and falling waveform",
+        "d": "answA flat lineer4"
+      },
+      "explanations": {
+        "a":" ",
+        "b":" ",
+        "c":"A triangular waveform rises and falls linearly, unlike sine or square waves.",
+        "d":" "
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the VR CRO, the measured peak voltage is half of:",
+      "answers": {
+        "a": "RMS voltage",
+        "b": "Peak-to-peak voltage",
+        "c": "Time period",
+        "d": "Frequency"
+      },
+      "explanations": {
+        "a":" ",
+        "b":"The peak voltage is half of the peak-to-peak voltage.",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " In the VR CRO lab, a signal frequency increases. On the display, the waveform will:",
+      "answers": {
+        "a": "Spread out horizontally",
+        "b": "Compress horizontally",
+        "c": "Increase in height",
+        "d": "Reduce in brightness"
+      },
+      "explanations": {
+        "a":" ",
+        "b":": Increasing the signal frequency reduces the time period, so the waveform compresses horizontally.",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The advantage of doing amplitude measurements in VR CRO is:",
+      "answers": {
+        "a": "It requires no probes",
+        "b": "It automatically calculates RMS values",
+        "c": "It removes the need for volts/div control",
+        "d": "It increases waveform frequency"
+      },
+      "explanations": {
+        "a":"In a VR CRO lab, amplitude measurements can be done safely and virtually, without using physical probes.",
+        "b":" ",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
